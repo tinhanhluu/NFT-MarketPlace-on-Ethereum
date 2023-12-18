@@ -1,6 +1,6 @@
 # NFT-MarketPlace-on-Ethereum
-# Web3.0 Real Estate Dapp On Polygon Using Next.Js and Thirdweb
-# Web 3.0 Ứng Dụng Phi Tập Trung Bất Động Sản Trên Nền Polygon Sử Dụng Next.js và Thirdweb
+## Web3.0 Real Estate Dapp On Polygon Using Next.Js and Thirdweb
+## Web 3.0 Ứng Dụng Phi Tập Trung Bất Động Sản Trên Nền Polygon Sử Dụng Next.js và Thirdweb
 
 Phân quyền: Công nghệ Web3.0, được hỗ trợ bởi blockchain và hợp đồng thông minh, cho phép tạo ra các ứng dụng phi tập trung. Bằng cách xây dựng Dapp bất động sản trên Web3.0, bạn có thể loại bỏ các trung gian như ngân hàng, nhà môi giới và đại lý ký quỹ, cho phép giao dịch ngang hàng và loại bỏ sự cần thiết của các cơ quan tập trung. Điều này thúc đẩy tính minh bạch, giảm chi phí và tăng niềm tin vào thị trường bất động sản.
 
